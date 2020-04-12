@@ -10,7 +10,6 @@
   "auther": "liliang",
   "email": "969316753@qq.com",
   "license": "MIT",
-  "isTest": true,
   "isBoard": false,
   "id": "MpythonBT",
   "platform": [
@@ -25,11 +24,10 @@
       ],
       "main": "main.ts",
       "files": [
-        "_locales/zh-cn.json",
         "_images/icon.svg",
-        "libraries/BluetoothSerial/BluetoothSerial.cpp",
-        "libraries/BluetoothSerial/BluetoothSerial.h",
-        "libraries/includes.json"
+        "_locales/zh-cn.json",
+        "main.ts",
+        "libraries/libraries.zip"
       ]
     }
   }
